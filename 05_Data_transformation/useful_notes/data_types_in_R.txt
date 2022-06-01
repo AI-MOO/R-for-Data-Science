@@ -1,0 +1,17 @@
+# common data types in R
+
+int stands for integers.
+
+dbl stands for doubles, or real numbers.
+
+chr stands for character vectors, or strings.
+
+dttm stands for date-times (a date + a time).
+
+There are three other common types of variables that aren’t used in this dataset but you’ll encounter later in the book:
+  
+lgl stands for logical, vectors that contain only TRUE or FALSE.
+
+fctr stands for factors, which R uses to represent categorical variables with fixed possible values.
+
+date stands for dates
